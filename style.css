@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.carousel {
+   margin-top: 100px;
+   padding: 100px;
+}
+.carousel-item img{
+    width: 200px;
+    height: 200px;
+    margin-left: 30px;
+
+}
+.carousel-indicators{
+    color: black;
+    bottom: 30px;
+}
+.b h1{
+    transform: translateX(480px);
+   
+}
+.carousel-item h5{
+    margin-left: 60px;
+
+}
+.carousel-item p{
+    margin-left: 60px;
+    margin-bottom: -30px;
+}
